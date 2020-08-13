@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeInterface", "CakeInterface\CakeInterface.csproj", "{21627970-250B-45AF-AF11-4E9034F97E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21627970-250B-45AF-AF11-4E9034F97E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21627970-250B-45AF-AF11-4E9034F97E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21627970-250B-45AF-AF11-4E9034F97E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21627970-250B-45AF-AF11-4E9034F97E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69FE254F-99E1-4ACB-9865-858AF1D6F3FA}
+	EndGlobalSection
+EndGlobal
